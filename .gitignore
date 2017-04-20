@@ -2,6 +2,7 @@
 **/__pycache__/
 /Documentation/
 # Ignore les fichiers ou répertoires
+.gitignore
 *.swp
 __init__.*
 *.py[oc]

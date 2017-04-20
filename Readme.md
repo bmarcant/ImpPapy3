@@ -24,7 +24,7 @@ Utilisation
 
 Ce script s'utilise en ligne de commande (le terminal sous Linux, `cmd` pour Windows).
 
-Le fichier CSV, en entrée, est celui fourni par l'export de Papyrus2000 : `ExpPapy3.csv`.
+Le fichier CSV, en entrée, est celui qui découle de l'export de Papyrus2000 : `ExpPapy3.xls`.
 
 ## Linux
 
