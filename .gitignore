@@ -1,0 +1,11 @@
+# Ignore les répertoires
+**/__pycache__/
+/Documentation/
+# Ignore les fichiers ou répertoires
+*.swp
+__init__.*
+*.py[oc]
+*.pdf
+# A l'exception du fichier foo.txt
+# !foo.txt
+
