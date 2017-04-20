@@ -6,6 +6,8 @@
 __init__.*
 *.py[oc]
 *.pdf
+# Ignore les liens
+ImpPapy3.py
 # A l'exception du fichier foo.txt
 # !foo.txt
 
