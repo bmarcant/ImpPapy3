@@ -1,10 +1,7 @@
 # Ignore les répertoires
-**/__pycache__/
 /Documentation/
 # Ignore les fichiers ou répertoires
 *.swp
-__init__.*
-*.py[oc]
 *.pdf
 # Ignore les liens
 ImpPapy3.py

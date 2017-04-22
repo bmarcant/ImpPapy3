@@ -1,5 +1,5 @@
-ImpPapy3 : convertisseur CSV vers WK1 pour l'import de document dans le logiciel Papyrus2000
-============================================================================================
+ImpPapy3 : convertisseur CSV vers WK1 pour l'import de documents dans le logiciel Papyrus2000
+=============================================================================================
 
 Introduction
 ------------
@@ -10,7 +10,7 @@ Ce logiciel est désormais disponible en téléchargement gratuit en version com
 
 Hélas, l'incovénient est qu'il n'est plus maintenu depuis plusieurs années.
 
-Et l'un des points bloquant est que Microsoft Excel ne génère plus le format WK1 ([Lotus 1-2-3](https://fr.wikipedia.org/wiki/Lotus_1-2-3)), le format de fichier unique pour l'import dans Papyrus2000.
+Et l'un des points bloquants est que, depuis la version 2003, Microsoft Excel ne génère plus le format WK1 ([Lotus 1-2-3](https://fr.wikipedia.org/wiki/Lotus_1-2-3)), le format de fichier unique pour l'import dans Papyrus2000.
 
 Bien sûr, il est toujours possible de faire des saisies manuelles pour entrer des documents dans Papyrus2000.
 
@@ -68,5 +68,5 @@ La version courante est la 1.0.
 Note
 ----
 
-J'ai aussi créé le script `ModPapy3` pour modifier des documents dans Papyrus2000.
+J'ai aussi créé le script [ModPapy3](https://github.com/bmarcant/ModPapy3.git) pour modifier des documents dans Papyrus2000.
 
